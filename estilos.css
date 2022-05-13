@@ -1,0 +1,135 @@
+* {
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+}
+
+header {
+    background-color: #B0DDFC;
+    text-align: center;
+    padding: 30px;
+}
+
+header img {
+    width: 150px;
+}
+
+.menu .link-menu {
+    padding: 5px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    color: #203B4C;
+}
+
+main {
+    margin: 0 auto;
+}
+
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.banner-imagem {
+    text-align: center;
+}
+
+.imagem {
+    margin: 0 auto;
+    padding: 30px;
+    width: 450px;
+}
+
+.titulo {
+    margin-bottom: 5px;
+}
+
+.subtitulo {
+    font-weight: normal;
+    font-size: 24px;
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+h3 {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.texto-azul {
+    color: #476A90;
+}
+
+.texto-negrito {
+    font-weight: bold;
+}
+
+.texto-branco {
+    color: white;
+}
+
+.texto-amarelo {
+    color: #F0F843;
+}
+
+main p {
+    text-align: justify;
+    padding-right: 150px;
+    padding-left: 150px;
+    width: 1000px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.fundo-azul {
+    background-color: #1d80c1;
+
+}
+
+.fundo-azul h3 {
+    line-height: 42px;
+    font-size: 28px;
+}
+
+.fundo-azul p {
+    margin: 0 auto;
+    width: 685px;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.fundo-azul ul {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 135px;
+    line-height: 42px;
+    font-size: 22px;
+}
+
+.contatos .texto-contato {
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 950px;
+    font-size: 18px;
+}
+
+.contatos .lista-contatos {
+    list-style-type: none;
+    margin: 40 auto 40 auto;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.contatos .escritorio {
+    padding: 2px 5px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 15px;
+    font-size: 18px;
+    color: #1d80c1;
+}
